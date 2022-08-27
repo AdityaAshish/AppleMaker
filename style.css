@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+    background: teal;    
+}
+span
+{
+	font-size: 18px;
+	color: lightseagreen;
+}
+canvas
+{
+	border-style: solid;
+	border-color:lightseagreen;
+	background: white;
+	border-radius: 20px;
+}
